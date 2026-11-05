@@ -1,0 +1,274 @@
+[
+  {
+    "bimestre": 1,
+    "inicio": "05/02",
+    "fim": "24/04",
+    "dias": 52,
+    "objetos": [
+      "Múltiplos e divisores de números naturais; porcentagens, acréscimos e decréscimos; números inteiros e operações; frações, seus significados e estratégias de resolução."
+    ],
+    "habilidades": [
+      {
+        "codigo": "EF07MA01",
+        "descricao": "Resolver e elaborar problemas com números naturais, envolvendo as noções de divisor e de múltiplo, podendo incluir máximo divisor comum ou mínimo múltiplo comum, por meio de estratégias diversas, sem a aplicação de algoritmos."
+      },
+      {
+        "codigo": "EF07MA02",
+        "descricao": "Resolver e elaborar problemas que envolvam porcentagens, como os que lidam com acréscimos e decréscimos simples, utilizando estratégias pessoais, cálculo mental e calculadora, no contexto de educação financeira, entre outros."
+      },
+      {
+        "codigo": "EF07MA03",
+        "descricao": "Comparar e ordenar números inteiros em diferentes contextos, incluindo o histórico, associá-los a pontos da reta numérica e utilizá-los em situações que envolvam adição e subtração."
+      },
+      {
+        "codigo": "EF07MA04",
+        "descricao": "Resolver e elaborar problemas que envolvam operações com números inteiros."
+      },
+      {
+        "codigo": "EF07MA05",
+        "descricao": "Resolver um mesmo problema utilizando diferentes algoritmos."
+      },
+      {
+        "codigo": "EF07MA06",
+        "descricao": "Reconhecer que as resoluções de um grupo de problemas que têm a mesma estrutura podem ser obtidas utilizando os mesmos procedimentos."
+      },
+      {
+        "codigo": "EF07MA07",
+        "descricao": "Representar por meio de um fluxograma os passos utilizados para resolver um grupo de problemas."
+      },
+      {
+        "codigo": "EF07MA08",
+        "descricao": "Comparar e ordenar frações associadas às ideias de partes de inteiros, resultado da divisão, razão e operador."
+      },
+      {
+        "codigo": "EF07MA09",
+        "descricao": "Utilizar, na resolução de problemas, a associação entre razão e fração, como a fração 2/3 para expressar a razão de duas partes de uma grandeza para três partes da mesma ou três partes de outra grandeza."
+      }
+    ],
+    "competencias": [
+      "Seleção e contextualização pedagógica das competências específicas da BNCC pertinentes ao bimestre (síntese, não transcrição literal):",
+      "Reconhecer a Matemática como construção humana e ferramenta para interpretar situações do cotidiano.",
+      "Desenvolver raciocínio lógico, investigação, argumentação e resolução de problemas.",
+      "Utilizar diferentes registros, estratégias de cálculo e recursos tecnológicos para comunicar soluções."
+    ],
+    "metodologia": [
+      "Aulas dialogadas e diagnóstico inicial de conhecimentos prévios; problemas contextualizados com múltiplos, divisores, porcentagens e finanças pessoais.",
+      "Jogos de números inteiros, reta numérica, material fracionário e representações visuais; resolução em duplas com discussão de estratégias.",
+      "Recursos: quadro, caderno, régua, fichas, calculadora, material manipulável, projetor e atividades digitais quando disponíveis."
+    ],
+    "avaliacao": [
+      "Avaliação diagnóstica no início do bimestre; observação contínua da participação, dos registros e da argumentação; listas e desafios de resolução de problemas; atividades individuais e em grupo; devolutivas formativas e instrumento avaliativo bimestral.",
+      "Critérios: compreensão conceitual, resolução de problemas, argumentação, comunicação matemática, participação e evolução individual. Prever adaptações e diferentes formas de demonstrar aprendizagem."
+    ],
+    "referencias": [
+      "BRASIL. Ministério da Educação. Base Nacional Comum Curricular. Brasília: MEC, 2018. Matemática – Ensino Fundamental, 7º ano, p. 306–311.",
+      "DIAMANTE (PB). Secretaria Municipal de Educação. Calendário Escolar 2026. Diamante, 2026.",
+      "EMEIF JOSÉ ANTÔNIO BARROS. Relação de habilidades BNCC – Matemática, 7º ano. Documento escolar disponibilizado para planejamento."
+    ]
+  },
+  {
+    "bimestre": 2,
+    "inicio": "27/04",
+    "fim": "24/07",
+    "dias": 53,
+    "objetos": [
+      "Números racionais e operações; linguagem algébrica; sequências e expressões equivalentes; proporcionalidade direta e inversa; equações polinomiais do 1º grau."
+    ],
+    "habilidades": [
+      {
+        "codigo": "EF07MA10",
+        "descricao": "Comparar e ordenar números racionais em diferentes contextos e associá-los a pontos da reta numérica."
+      },
+      {
+        "codigo": "EF07MA11",
+        "descricao": "Compreender e utilizar a multiplicação e a divisão de números racionais, a relação entre elas e suas propriedades operatórias."
+      },
+      {
+        "codigo": "EF07MA12",
+        "descricao": "Resolver e elaborar problemas que envolvam as operações com números racionais."
+      },
+      {
+        "codigo": "EF07MA13",
+        "descricao": "Compreender a ideia de variável, representada por letra ou símbolo, para expressar relação entre duas grandezas, diferenciando-a da ideia de incógnita."
+      },
+      {
+        "codigo": "EF07MA14",
+        "descricao": "Classificar sequências em recursivas e não recursivas, reconhecendo que o conceito de recursão está presente não apenas na matemática, mas também nas artes e na literatura."
+      },
+      {
+        "codigo": "EF07MA15",
+        "descricao": "Utilizar a simbologia algébrica para expressar regularidades encontradas em sequências numéricas."
+      },
+      {
+        "codigo": "EF07MA16",
+        "descricao": "Reconhecer se duas expressões algébricas obtidas para descrever a regularidade de uma mesma sequência numérica são ou não equivalentes."
+      },
+      {
+        "codigo": "EF07MA17",
+        "descricao": "Resolver e elaborar problemas que envolvam variação de proporcionalidade direta e de proporcionalidade inversa entre duas grandezas, utilizando sentença algébrica para expressar a relação entre elas."
+      },
+      {
+        "codigo": "EF07MA18",
+        "descricao": "Resolver e elaborar problemas que possam ser representados por equações polinomiais de 1º grau, redutíveis à forma ax + b = c, fazendo uso das propriedades da igualdade."
+      }
+    ],
+    "competencias": [
+      "Seleção e contextualização pedagógica das competências específicas da BNCC pertinentes ao bimestre (síntese, não transcrição literal):",
+      "Investigar padrões e relações entre grandezas, utilizando linguagem algébrica.",
+      "Argumentar matematicamente e comparar diferentes estratégias de resolução.",
+      "Modelar e resolver problemas de proporcionalidade e equações em situações significativas."
+    ],
+    "metodologia": [
+      "Exploração de reta numérica e representações decimais/fracionárias; investigação de sequências e padrões.",
+      "Situações de proporcionalidade, tabelas, esquemas, balanças algébricas e problemas com equações do 1º grau.",
+      "Recursos: quadro, folhas de atividades, calculadora, planilhas e ferramentas digitais como GeoGebra ou Desmos quando disponíveis."
+    ],
+    "avaliacao": [
+      "Avaliação formativa de procedimentos, justificativas e representações; acompanhamento de exercícios e projetos; autoavaliação; produção de registros e instrumento bimestral, com retomada das dificuldades identificadas.",
+      "Critérios: compreensão conceitual, resolução de problemas, argumentação, comunicação matemática, participação e evolução individual. Prever adaptações e diferentes formas de demonstrar aprendizagem."
+    ],
+    "referencias": [
+      "BRASIL. Ministério da Educação. Base Nacional Comum Curricular. Brasília: MEC, 2018. Matemática – Ensino Fundamental, 7º ano, p. 306–311.",
+      "DIAMANTE (PB). Secretaria Municipal de Educação. Calendário Escolar 2026. Diamante, 2026.",
+      "EMEIF JOSÉ ANTÔNIO BARROS. Relação de habilidades BNCC – Matemática, 7º ano. Documento escolar disponibilizado para planejamento."
+    ]
+  },
+  {
+    "bimestre": 3,
+    "inicio": "27/07",
+    "fim": "02/10",
+    "dias": 48,
+    "objetos": [
+      "Transformações no plano cartesiano; simetrias; circunferência; paralelas e transversal; construção e propriedades dos triângulos; polígonos regulares."
+    ],
+    "habilidades": [
+      {
+        "codigo": "EF07MA19",
+        "descricao": "Realizar transformações de polígonos representados no plano cartesiano, decorrentes da multiplicação das coordenadas de seus vértices por um número inteiro."
+      },
+      {
+        "codigo": "EF07MA20",
+        "descricao": "Reconhecer e representar, no plano cartesiano, o simétrico de figuras em relação aos eixos e à origem."
+      },
+      {
+        "codigo": "EF07MA21",
+        "descricao": "Reconhecer e construir figuras obtidas por simetrias de translação, rotação e reflexão, usando instrumentos de desenho ou softwares de geometria dinâmica e vincular esse estudo a representações planas de obras de arte, elementos arquitetônicos, entre outros."
+      },
+      {
+        "codigo": "EF07MA22",
+        "descricao": "Construir circunferências, utilizando compasso, reconhecê-las como lugar geométrico e utilizá-las para fazer composições artísticas e resolver problemas que envolvam objetos equidistantes."
+      },
+      {
+        "codigo": "EF07MA23",
+        "descricao": "Verificar relações entre os ângulos formados por retas paralelas cortadas por uma transversal, com e sem uso de softwares de geometria dinâmica."
+      },
+      {
+        "codigo": "EF07MA24",
+        "descricao": "Construir triângulos, usando régua e compasso, reconhecer a condição de existência do triângulo quanto à medida dos lados e verificar que a soma das medidas dos ângulos internos de um triângulo é 180°."
+      },
+      {
+        "codigo": "EF07MA25",
+        "descricao": "Reconhecer a rigidez geométrica dos triângulos e suas aplicações, como na construção de estruturas arquitetônicas (telhados, estruturas metálicas e outras) ou nas artes plásticas."
+      },
+      {
+        "codigo": "EF07MA26",
+        "descricao": "Descrever, por escrito e por meio de um fluxograma, um algoritmo para a construção de um triângulo qualquer, conhecidas as medidas dos três lados."
+      },
+      {
+        "codigo": "EF07MA27",
+        "descricao": "Calcular medidas de ângulos internos de polígonos regulares, sem o uso de fórmulas, e estabelecer relações entre ângulos internos e externos de polígonos, preferencialmente vinculadas à construção de mosaicos e de ladrilhamentos."
+      },
+      {
+        "codigo": "EF07MA28",
+        "descricao": "Descrever, por escrito e por meio de um fluxograma, um algoritmo para a construção de um polígono regular (como quadrado e triângulo equilátero), conhecida a medida de seu lado."
+      }
+    ],
+    "competencias": [
+      "Seleção e contextualização pedagógica das competências específicas da BNCC pertinentes ao bimestre (síntese, não transcrição literal):",
+      "Investigar propriedades geométricas por meio de construções, conjecturas e validação de resultados.",
+      "Utilizar instrumentos de desenho e tecnologias digitais para representar figuras e transformações.",
+      "Comunicar e justificar procedimentos geométricos com clareza e colaboração."
+    ],
+    "metodologia": [
+      "Construções com régua, compasso, transferidor, papel quadriculado e malha cartesiana.",
+      "Atividades investigativas com simetrias, ângulos, triângulos e mosaicos; produção de fluxogramas de construções.",
+      "Recursos: instrumentos geométricos, dobraduras, papel colorido, projetor e software de geometria dinâmica quando disponível."
+    ],
+    "avaliacao": [
+      "Observação das construções geométricas e justificativas; rubricas para precisão, raciocínio e comunicação; portfólio de atividades; avaliação individual e recuperação paralela.",
+      "Critérios: compreensão conceitual, resolução de problemas, argumentação, comunicação matemática, participação e evolução individual. Prever adaptações e diferentes formas de demonstrar aprendizagem."
+    ],
+    "referencias": [
+      "BRASIL. Ministério da Educação. Base Nacional Comum Curricular. Brasília: MEC, 2018. Matemática – Ensino Fundamental, 7º ano, p. 306–311.",
+      "DIAMANTE (PB). Secretaria Municipal de Educação. Calendário Escolar 2026. Diamante, 2026.",
+      "EMEIF JOSÉ ANTÔNIO BARROS. Relação de habilidades BNCC – Matemática, 7º ano. Documento escolar disponibilizado para planejamento."
+    ]
+  },
+  {
+    "bimestre": 4,
+    "inicio": "05/10",
+    "fim": "18/12",
+    "dias": 49,
+    "objetos": [
+      "Medições e estimativas; volume de blocos retangulares; áreas de triângulos e quadriláteros; comprimento da circunferência e π; experimentos aleatórios; média e amplitude; pesquisas e gráficos de setores."
+    ],
+    "habilidades": [
+      {
+        "codigo": "EF07MA29",
+        "descricao": "Resolver e elaborar problemas que envolvam medidas de grandezas inseridos em contextos oriundos de situações cotidianas ou de outras áreas do conhecimento, reconhecendo que toda medida empírica é aproximada."
+      },
+      {
+        "codigo": "EF07MA30",
+        "descricao": "Resolver e elaborar problemas de cálculo de medida do volume de blocos retangulares, envolvendo as unidades usuais (metro cúbico, decímetro cúbico e centímetro cúbico)."
+      },
+      {
+        "codigo": "EF07MA31",
+        "descricao": "Estabelecer expressões de cálculo de área de triângulos e de quadriláteros."
+      },
+      {
+        "codigo": "EF07MA32",
+        "descricao": "Resolver e elaborar problemas de cálculo de medida de área de figuras planas que podem ser decompostas por quadrados, retângulos e/ou triângulos, utilizando a equivalência entre áreas."
+      },
+      {
+        "codigo": "EF07MA33",
+        "descricao": "Estabelecer o número π como a razão entre a medida de uma circunferência e seu diâmetro, para compreender e resolver problemas, inclusive os de natureza histórica."
+      },
+      {
+        "codigo": "EF07MA34",
+        "descricao": "Planejar e realizar experimentos aleatórios ou simulações que envolvem cálculo de probabilidades ou estimativas por meio de frequência de ocorrências."
+      },
+      {
+        "codigo": "EF07MA35",
+        "descricao": "Compreender, em contextos significativos, o significado de média estatística como indicador da tendência de uma pesquisa, calcular seu valor e relacioná-lo, intuitivamente, com a amplitude do conjunto de dados."
+      },
+      {
+        "codigo": "EF07MA36",
+        "descricao": "Planejar e realizar pesquisa envolvendo tema da realidade social, identificando a necessidade de ser censitária ou de usar amostra, e interpretar os dados para comunicá-los por meio de relatório escrito, tabelas e gráficos, com o apoio de planilhas eletrônicas."
+      },
+      {
+        "codigo": "EF07MA37",
+        "descricao": "Interpretar e analisar dados apresentados em gráfico de setores divulgados pela mídia e compreender quando é possível ou conveniente sua utilização."
+      }
+    ],
+    "competencias": [
+      "Seleção e contextualização pedagógica das competências específicas da BNCC pertinentes ao bimestre (síntese, não transcrição literal):",
+      "Relacionar medidas, dados e probabilidades a situações reais e decisões fundamentadas.",
+      "Planejar investigações, organizar informações e interpretar representações estatísticas.",
+      "Utilizar instrumentos, planilhas e recursos digitais de modo crítico, ético e colaborativo."
+    ],
+    "metodologia": [
+      "Medições de objetos e espaços da escola; decomposição de figuras e cálculo de áreas e volumes.",
+      "Experimentos aleatórios, pesquisas com dados da turma, elaboração de tabelas, gráficos e relatórios.",
+      "Recursos: trena, régua, recipientes, papel quadriculado, calculadora, planilhas eletrônicas e gráficos impressos."
+    ],
+    "avaliacao": [
+      "Avaliação de projetos de medição e pesquisa, relatórios, gráficos e interpretação de dados; atividades práticas e escritas; autoavaliação, revisão integradora e recuperação conforme as necessidades.",
+      "Critérios: compreensão conceitual, resolução de problemas, argumentação, comunicação matemática, participação e evolução individual. Prever adaptações e diferentes formas de demonstrar aprendizagem."
+    ],
+    "referencias": [
+      "BRASIL. Ministério da Educação. Base Nacional Comum Curricular. Brasília: MEC, 2018. Matemática – Ensino Fundamental, 7º ano, p. 306–311.",
+      "DIAMANTE (PB). Secretaria Municipal de Educação. Calendário Escolar 2026. Diamante, 2026.",
+      "EMEIF JOSÉ ANTÔNIO BARROS. Relação de habilidades BNCC – Matemática, 7º ano. Documento escolar disponibilizado para planejamento."
+    ]
+  }
+]
