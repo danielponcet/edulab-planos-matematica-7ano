@@ -1,0 +1,7 @@
+IMPORTANTE: NÃO RECRIE O PROJETO DO ZERO.
+
+Este projeto EduLab Planos de Curso 7º Ano já contém interface funcional, dados reais dos quatro planos de curso e estilos. Preserve a arquitetura React + TypeScript + Vite, os textos integrais e o arquivo src/data/planos.json.
+
+Tarefa única: analise o código existente, execute o build e corrija SOMENTE erros impeditivos de compilação ou execução. Não adicione Supabase, autenticação, APIs, bibliotecas, imagens ou novas funcionalidades. Não reescreva o layout. Não altere as 37 habilidades da BNCC nem a distribuição por bimestre. Ao final, informe exatamente quais arquivos foram alterados e o resultado do build.
+
+Objetivo: publicar o site com o mínimo de alterações e consumo de créditos.
